@@ -1,0 +1,10 @@
+int Ab ;
+# int Xb poderia 
+ 
+doble teste
+   float Exemplo # sera minha variavel de exemplo
+# double Exemplo2 seria melhor?
+ 
+   Exemplo = 3456,567
+ 
+while ( Ab < 500 )
