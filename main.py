@@ -27,7 +27,7 @@ for line in file:
 
     if len(line) == 0 or re.match(r'^#', line):
         continue
-    tokens =  re.findall(r'\d+|[a-zA-Z_]\w*|[()\[\]{}]|==|!=|<=|>=|[+\-*/=<>]', line)
+    tokens =  re.findall(r'[0-9]+,?[0-9]+|[a-zA-Z_]\w*|[()\[\]{}]|==|!=|<=|>=|[+\-*/=<>]', line)
     
     for token in tokens:
 

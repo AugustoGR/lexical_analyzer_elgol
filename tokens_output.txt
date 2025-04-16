@@ -1,1 +1,1 @@
-<reservada,1> <identificador,2> <reservada,3> <identificador,4> <identificador,4> <=,> <número,5> <número,6> <reservada,7> <(,> <identificador,2> <<,> <número,8> <),>
+<reservada,1> <identificador,2> <reservada,3> <identificador,4> <identificador,4> <=,> <número,5> <reservada,6> <(,> <identificador,2> <<,> <número,7> <),>
