@@ -7,4 +7,4 @@ doble teste
  
    Exemplo = 3456,567
  
-while ( Ab < 500 )
+while ( Ab < 500)
