@@ -78,6 +78,3 @@ for token in tokensList:
 with open('tokens_output.txt', 'w') as output_file:
     output_file.write(' '.join(tokensList))
 
-# Ainda é preciso ajusta a leitura de pontuação colados ao texto "int a = 0;"
-# vericar se todos os tokens estão sendo lidos corretamente
-# Ter como saida um arquivo com a lista de tokens e uma tabela com os simbolos
